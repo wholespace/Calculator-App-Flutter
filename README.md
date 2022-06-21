@@ -21,7 +21,7 @@ One of the first simple apps I created while on my journey to learn Flutter.
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/swapnilsparsh/BMI-Calculator-App.git
+git clone https://github.com/wholespace/Calculator-App-Flutter.git
 ```
   ##### Move to the desired folder
 ```bash
@@ -48,14 +48,11 @@ flutter run
 
 This project follows the [MIT License](/LICENSE).
 
-#### Made this project with ♥ by <a href="https://swapnilsparsh.github.io/">Swapnil Srivastava</a>
+#### Made this project with ♥ by <a href="https://wholespace.netlify.app">Whole Space</a>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://swapnilsparsh.github.io/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://wholespace.netlify.app)
 
-<a href="https://github.com/swapnilsparsh" target="_blank">
+<a href="https://github.com/wholespace" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
